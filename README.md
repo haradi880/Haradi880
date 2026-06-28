@@ -1,39 +1,86 @@
 <div align="center">
 
-# Hey, I'm Aditya 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20(Haradi%20Bots)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Robotics&descAlignY=55&descSize=18" width="100%"/>
 
-### Founder of [Haradi Bots](https://github.com/haradi880/Haradibots) — building with AI, ML & robotics, one project at a time.
+<br>
+
+<a href="https://github.com/haradi880">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%26+ML+projects;Founder+of+Haradi+Bots;Exploring+LLMs+%26+Robotics;Always+learning+something+new&font=Fira+Code&center=true&width=480&height=45&color=58A6FF&vCenter=true&size=22"/>
+</a>
 
 </div>
 
 <br>
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently building projects around **deep learning, NLP, and computer vision**
-- 🤖 Founder of **Haradi Bots** — exploring humanoid robotics and intelligent systems
-- 🌱 Learning: **LLMs, fine-tuning (LoRA), and reinforcement learning**
-- 👯 Looking to collaborate on **ML / AI projects**
-- 💬 Ask me about: **Python, TensorFlow, ML pipelines, or chatbots**
-- 📍 Based in Lucknow, Uttar Pradesh, India
-
-<br>
-
-## 🛠️ Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧮 [**DeepSeek-Math 7B + LoRA**](https://github.com/haradi880/Test-Script-for-DeepSeek-Math-7B-Instruct-Model-with-LoRA-Adapter) | Test script that loads the DeepSeek-Math 7B Instruct model with a LoRA adapter and evaluates it | `Python` `LoRA` `LLM` |
-| 🎙️ [**Speech Emotion Recognition**](https://github.com/haradi880/Speech-Emotion-Recognition) | Detects emotion from speech audio using ML | `Python` `Audio ML` |
-| 🐟 [**Fish Analysis & Weight Estimation**](https://github.com/haradi880/Fish-Analysis-Weight-Estimation-Pipeline) | Detects fish in images, identifies species, and estimates weight | `TensorFlow Lite` `OpenCV` `PIL` |
-| 💬 [**ML Chatbot**](https://github.com/haradi880/Chat-bot-by-ml-in-python-) | A chatbot built from scratch using classic ML in Python | `Python` `ML` |
-| ⚡ [**Gemini 3 Project Builder**](https://github.com/haradi880/google-gemini-3-test) | An app-building tool powered by Google Gemini 3 | `TypeScript` `Gemini API` |
-
-<sub>📌 Pin these on your profile via GitHub → your repo → "⋯" → Customize pins, so they show as cards above your README.</sub>
+- Currently building projects around **deep learning, NLP, and computer vision**
+- Founder of **Haradi Bots** — exploring humanoid robotics and intelligent systems
+- Learning: **LLMs, fine-tuning (LoRA), and reinforcement learning**
+- Open to collaborating on **ML / AI projects**
+- Ask me about: **Python, TensorFlow, ML pipelines, or chatbots**
+- Based in Lucknow, Uttar Pradesh, India
 
 <br>
 
-## 🧰 Tech Stack
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[DeepSeek-Math 7B + LoRA](https://github.com/haradi880/Test-Script-for-DeepSeek-Math-7B-Instruct-Model-with-LoRA-Adapter)**
+Test script loading the DeepSeek-Math 7B Instruct model with a LoRA adapter for evaluation.
+`Python` `LoRA` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+**[Speech Emotion Recognition](https://github.com/haradi880/Speech-Emotion-Recognition)**
+Detects emotion from speech audio using machine learning.
+`Python` `Audio ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Fish Analysis & Weight Estimation](https://github.com/haradi880/Fish-Analysis-Weight-Estimation-Pipeline)**
+Detects fish in images, identifies species, and estimates weight.
+`TensorFlow Lite` `OpenCV` `PIL`
+
+</td>
+<td width="50%" valign="top">
+
+**[ML Chatbot](https://github.com/haradi880/Chat-bot-by-ml-in-python-)**
+A chatbot built from scratch using classic ML in Python.
+`Python` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Gemini 3 Project Builder](https://github.com/haradi880/google-gemini-3-test)**
+An app-building tool powered by Google Gemini 3.
+`TypeScript` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+**[Haradibots Website](https://github.com/haradi880/Haradibots)**
+Site for the Haradi Bots project/brand.
+`HTML` `CSS`
+
+</td>
+</tr>
+</table>
+
+<sub>Pin these on your profile via GitHub → your repo → "⋯" → Customize pins, so they show as cards above your README.</sub>
+
+<br>
+
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,7 +106,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -72,7 +119,7 @@
 
 <br>
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=haradi880&theme=dracula&no-frame=true&margin-w=4&row=1" />
@@ -80,7 +127,17 @@
 
 <br>
 
-## 🌐 Connect with Me
+## Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/haradi880/haradi880/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<sub>This animated snake needs a one-time GitHub Action setup in your <code>Haradi880</code> repo — let me know if you want the workflow file and I'll generate it for you.</sub>
+
+<br>
+
+## Connect with Me
 
 <div align="center">
 
@@ -96,3 +153,5 @@
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=Haradi880&icon=7&color=0" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
