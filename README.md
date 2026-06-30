@@ -1,157 +1,60 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20(Haradi%20Bots)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Robotics&descAlignY=55&descSize=18" width="100%"/>
-
-<br>
-
-<a href="https://github.com/haradi880">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%26+ML+projects;Founder+of+Haradi+Bots;Exploring+LLMs+%26+Robotics;Always+learning+something+new&font=Fira+Code&center=true&width=480&height=45&color=58A6FF&vCenter=true&size=22"/>
-</a>
-
-</div>
-
-<br>
-
-## About Me
-
-- Currently building projects around **deep learning, NLP, and computer vision**
-- Founder of **Haradi Bots** — exploring humanoid robotics and intelligent systems
-- Learning: **LLMs, fine-tuning (LoRA), and reinforcement learning**
-- Open to collaborating on **ML / AI projects**
-- Ask me about: **Python, TensorFlow, ML pipelines, or chatbots**
-- Based in Lucknow, Uttar Pradesh, India
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[DeepSeek-Math 7B + LoRA](https://github.com/haradi880/Test-Script-for-DeepSeek-Math-7B-Instruct-Model-with-LoRA-Adapter)**
-Test script loading the DeepSeek-Math 7B Instruct model with a LoRA adapter for evaluation.
-`Python` `LoRA` `LLM`
-
-</td>
-<td width="50%" valign="top">
-
-**[Speech Emotion Recognition](https://github.com/haradi880/Speech-Emotion-Recognition)**
-Detects emotion from speech audio using machine learning.
-`Python` `Audio ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Fish Analysis & Weight Estimation](https://github.com/haradi880/Fish-Analysis-Weight-Estimation-Pipeline)**
-Detects fish in images, identifies species, and estimates weight.
-`TensorFlow Lite` `OpenCV` `PIL`
-
-</td>
-<td width="50%" valign="top">
-
-**[ML Chatbot](https://github.com/haradi880/Chat-bot-by-ml-in-python-)**
-A chatbot built from scratch using classic ML in Python.
-`Python` `ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Gemini 3 Project Builder](https://github.com/haradi880/google-gemini-3-test)**
-An app-building tool powered by Google Gemini 3.
-`TypeScript` `Gemini API`
-
-</td>
-<td width="50%" valign="top">
-
-**[Haradibots Website](https://github.com/haradi880/Haradibots)**
-Site for the Haradi Bots project/brand.
-`HTML` `CSS`
-
-</td>
-</tr>
-</table>
-
-<sub>Pin these on your profile via GitHub → your repo → "⋯" → Customize pins, so they show as cards above your README.</sub>
-
-<br>
-
-## Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
-## GitHub Stats
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Haradi%20Bots&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-powered%20systems%2C%20one%20pipeline%20at%20a%20time&descAlignY=55&descSize=18)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haradi880&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haradi880&theme=dracula&hide_border=true&layout=compact" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haradi880&theme=dracula&hide_border=true" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Founder+of+Haradi+Bots;Building+LLM+%2B+Robotics+systems;Kaggle+Competitor+%40haradibots;Currently+learning+LLM+internals)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+# 💫 About Me
 
-## Trophies
+🤖 Founder of **Haradi Bots** — building AI-powered systems, from LLM tooling to robotics
+🔭 Currently building **HaradiBots v3.0**, an LLM quantization & profiling pipeline
+🧠 Competing on **Kaggle** ([@haradibots](https://www.kaggle.com/haradibots)) — cell-tracking, biomass prediction, math reasoning
+🌱 Currently learning LLM internals & deep reinforcement learning
+💬 Ask me about ML pipelines, LoRA fine-tuning, or computer vision
+⚡ Fun fact: I'm 17 and I ship projects most adults talk about doing
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haradi880&theme=dracula&no-frame=true&margin-w=4&row=1" />
-</div>
+---
 
-<br>
+## 🚀 Projects
 
-## Contribution Graph
+### [HaradiBots v3.0](https://github.com/Haradi880/HaradiBots)
+LLM quantization and profiling pipeline. Full build roadmap, milestone-driven development.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/haradi880/haradi880/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+### [CrystalCart Luxe](https://github.com/Haradi880/CrystalCart-Luxe)
+Premium ecommerce webapp with a 3D UI — React, Three.js, FastAPI.
 
-<sub>This animated snake needs a one-time GitHub Action setup in your <code>Haradi880</code> repo — let me know if you want the workflow file and I'll generate it for you.</sub>
+### [ProducerLite](https://github.com/Haradi880/ProducerLite)
+Game AI agent with fleet planning, enemy pressure modeling, and multi-agent architecture.
 
-<br>
+---
 
-## Connect with Me
+## 🏆 Kaggle Highlights
 
-<div align="center">
+- **[Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development)** — built a full pipeline (v4) covering segmentation, cell matching, and division detection in an offline-only environment
+- **CSIRO Biomass Prediction** — vision-embedding pipeline (SigLIP + DINO) with ensemble regressors, rewritten to run fully offline on torchvision ResNets
+- **Catechol Benchmark Hackathon** — CatBoost/XGBoost/LightGBM ensemble with advanced featurization, later extended with a deep neural net using SE blocks and residual connections
+- **IMO Geometry** — LoRA fine-tuning on DeepSeek-Math-7B for geometric reasoning
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Haradibots)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya-haradibots)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/haradibots)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llaka2937@gmail.com)
+→ [Full profile on Kaggle](https://www.kaggle.com/haradibots)
 
-</div>
+---
 
-<br>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Haradibots) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya-haradibots) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:llaka2937@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/haradibots)
 
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=Haradi880&icon=7&color=0" />
-</div>
+## 💻 Core Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![ThreeJS](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Haradi880&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haradi880&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🐍 Contribution Graph
+![snake gif](https://raw.githubusercontent.com/Haradi880/Haradi880/output/github-contribution-grid-snake.svg)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Haradi880&icon=7&color=0)](https://visitcount.itsvg.in)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer)
